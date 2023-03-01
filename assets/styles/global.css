@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'BYekan';
+    src: url('../fonts/BYekan-webfont.eot') format('eot'), url('../fonts/BYekan-webfont.woff') format('woff'), url('../fonts/BYekan-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BYekan';
+    src: url('../fonts/BYekan-webfont.eot') format('eot'), url('../fonts/BYekan-webfont.woff') format('woff'), url('../fonts/BYekan-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    font-family: 'BYekan', 'Courier New', Courier, monospace !important;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+.a_btn {
+    display: block;
+    background-color: #03001C;
+    color: white;
+    text-align: center;
+    padding: .5rem 0;
+    border-radius: 10px;
+    transition: all .5s ease-in;
+}
+
+.a_btn:hover {
+    background-color: #B3005E;
+    transition: all .5s ease-in;
+}
+
+ul {
+    list-style: none;
+}
+
+
+
